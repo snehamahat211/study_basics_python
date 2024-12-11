@@ -26,6 +26,16 @@ a=float("1234")
 print(type(a))
 
 
+name="sneha Mahat"
+age=20
+# age2=age
+# print("my name is " , name)
+# print("my age is " + age)
+# print(age2)
+
+print(type(name))
+print(type(age))
+
 
 
 
